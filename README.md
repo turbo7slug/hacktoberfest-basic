@@ -33,7 +33,7 @@ A repository containing basic programming questions in C, C++ and Python.
 ### :man_shrugging: How To:
 
 1. Fork Repo on Web Page
-2. `git clone https://github.com/{your-username}/Hacktoberfest-Data-Structure-and-Algorithms`
+2. `git clone https://github.com/{your-username}/Hacktoberfest-basic`
 3. Code your files in the proper directory based on the instructions above
 4. add all your files `git add your/directory/path/to/file/` (see new directory structure above)
 5. commit your file changes `git commit -m "Whatever you did here, e.g. created linkedlist class in C++"`
