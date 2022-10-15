@@ -13,7 +13,6 @@ def sumOfNthPowerOfIndividualDigits(n: int) -> int:
         print(digit)
         temp = nthPower(digit, noOfDigits)
         sum += temp
-        print(sum)
     return sum
 
 
