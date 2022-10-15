@@ -8,7 +8,7 @@ int main()
     cin>>password;
     int l=strlen(password);
 
-    while(l<6 && l>9)    //checking length of password
+    while(l<6 && l>12)    //checking length of password
     {
         cout<<"enter a valid password : ";
         cin>>password;
